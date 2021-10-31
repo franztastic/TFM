@@ -12,6 +12,6 @@ Cuenta el número de muestras clasificadas por BlastX dado un valor máximo de e
 vpf_count_sample_classified.py
 script que calcula el núemro de muestras clasificadas por VPF-Class
 
-/tsv_vpf_classification.py
+tsv_vpf_classification.py
 
-Concatena los archivos .tsv, elimina los duplicados, cuenta el número de muestras clasificadas y cómo está distribuida la clasificación.
+Concatena los archivos .tsv, elimina las muestras que pudiera haber duplicadas, cuenta el número de muestras clasificadas y cómo está distribuida la clasificación.

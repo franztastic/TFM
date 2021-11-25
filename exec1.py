@@ -38,7 +38,7 @@ root = tk.Tk()
 root.withdraw()
 file_vpf_output = filedialog.askopenfilename()
 
-membership_ratio = int(input('Enter a membership ratio: '))
+membership_ratio = int(0.75)
 #step 2. Choose the original .fasta file 
 
 root = tk.Tk()
